@@ -4,6 +4,8 @@ Testing menggunakan database Spreadsheet.
 
 ## Installation
 
+Clone this repo
+
 ```bash
 https://github.com/SyariefLhe/AndroidSpreadsheets.git
 ```
